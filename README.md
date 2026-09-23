@@ -1,4 +1,10 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/j-marston/boiler-next?style=flat-square)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&style=flat)](https://tailwindcss.com/)
+[![oxlint](https://img.shields.io/badge/-oxlint-000000.svg?logo=oxlint&style=flat)](https://oxc.rs/docs/guide/usage/linter)
+[![oxfmt](https://img.shields.io/badge/-oxfmt-000000.svg?logo=oxfmt&style=flat)](https://oxc.rs/docs/guide/usage/formatter.html)
+[![lefthook](https://img.shields.io/badge/-lefthook-000000.svg?logo=lefthook&style=flat)](https://lefthook.dev/)
+[![Storybook](https://img.shields.io/badge/-Storybook-E00080.svg?logo=storybook&style=flat)](https://storybook.js.org/)
 
 # About
 Next.js 構築で使用するボイラーテンプレート
