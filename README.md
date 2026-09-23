@@ -31,6 +31,25 @@ pnpm dev
 
 URL: [http://localhost:3000](http://localhost:3000)
 
+## Project Structure
+
+```text
+/
+├── public/
+│   └── static asset(image etc..)
+├── src
+│   ├── api
+│   │   └── api client
+│   ├── app
+│   │   └── pages data
+│   ├── components
+│   │   └── UI components
+│   └── lib
+│       └── utility functions
+└── stories/
+    └── storybook files
+```
+
 ## CLI
 
 | Command | Description |
