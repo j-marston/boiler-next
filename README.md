@@ -1,4 +1,5 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/ja/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&style=flat)](https://tailwindcss.com/)
 [![oxlint](https://img.shields.io/badge/-oxlint-000000.svg?logo=oxlint&style=flat)](https://oxc.rs/docs/guide/usage/linter)
