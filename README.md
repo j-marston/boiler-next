@@ -58,6 +58,7 @@ URL: [http://localhost:3000](http://localhost:3000)
 | --- | --- |
 | `pnpm dev` | 開発サーバー起動 |
 | `pnpm build` | ビルド |
+| `pnpm lint` | リンターを実行 |
 | `pnpm lint:fix` | リンターを実行して修正を適用 |
 | `pnpm fmt` | フォーマッター |
 | `pnpm fmt:fix` | フォーマッターを実行して修正を適用 |
