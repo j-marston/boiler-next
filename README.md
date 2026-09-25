@@ -35,19 +35,21 @@ URL: [http://localhost:3000](http://localhost:3000)
 
 ```text
 /
-├── public/
-│   └── static asset(image etc..)
-├── src
-│   ├── api
-│   │   └── api client
-│   ├── app
-│   │   └── pages data
-│   ├── components
-│   │   └── UI components
-│   └── lib
-│       └── utility functions
-└── stories/
-    └── storybook files
+├── public/             加工なしでそのまま配信される静的ファイル (image etc.)
+├── src/
+│   ├── api/            ※慣例名。APIクライアント・データ取得関数など
+│   ├── app/            ※必須。ファイルがそのままURLになる (App Router / file-based routing)
+│   ├── components/     ※慣例名。再利用するUIコンポーネント
+│   └── lib/            ※慣例名。ユーティリティ関数・共通ロジック
+├── stories/            Storybookのストーリーファイル
+├── .storybook/         Storybook設定ファイル (main.ts, preview.tsx)
+├── eslint.config.mjs   ESLint設定ファイル
+├── lefthook.yml        Git hooks設定 (lefthook)
+├── next.config.ts      Next.js設定ファイル
+├── postcss.config.mjs  PostCSS設定ファイル (Tailwind CSS)
+├── vitest.config.ts    Vitest設定ファイル
+├── tsconfig.json       TypeScript設定ファイル
+└── package.json        パッケージ情報・スクリプト定義
 ```
 
 ## CLI
